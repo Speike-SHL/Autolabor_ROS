@@ -6,6 +6,7 @@
         "/opt/ros/noetic/lib/python3/dist-packages"
     ],
     "cSpell.words": [
+        "helloworld",
         "loginfo",
         "rospy",
         "Speike"

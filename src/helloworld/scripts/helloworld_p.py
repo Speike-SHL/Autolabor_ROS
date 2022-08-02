@@ -1,8 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- encoding: utf-8 -*-
 '''
-@File    :   helloworld_p.py"
-@Time    :   2022/08/02 15:21:20"
+@File    :   helloworld_p.py
+@Time    :   2022/08/03 00:29:03
 @Author  :   Speike 
 @Contact :   shao-haoluo@foxmail.com
 @Desc    :   None
