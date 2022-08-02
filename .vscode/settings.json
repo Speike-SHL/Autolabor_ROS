@@ -9,5 +9,6 @@
         "loginfo",
         "rospy",
         "Speike"
-    ]
+    ],
+    "cmake.sourceDirectory": "${workspaceFolder}/src"
 }
