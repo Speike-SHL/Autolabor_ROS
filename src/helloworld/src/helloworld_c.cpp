@@ -1,8 +1,10 @@
 /***************************************************************
  * @file       helloworld_c.cpp
- * @author     Speike: shao-haoluo@foxmail.com
- * @date       2022/08/03 00:59:12
- * @todo
+ * @path       src/helloworld/src/helloworld_c.cpp
+ * @author     Speike
+ * @email      shao-haoluo@foxmail.com
+ * @date       2022/08/04 01:09:38
+ * @brief
  **************************************************************/
 #include "ros/ros.h"
 
